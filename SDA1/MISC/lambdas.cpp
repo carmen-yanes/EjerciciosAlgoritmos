@@ -39,6 +39,7 @@ int main(void){
     };
 
     cout<<sl.getMin(5,9)<<endl;
+    cout<<"Hola"<<endl;
 
     return 0;
 }
